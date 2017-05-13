@@ -47,13 +47,7 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
         // hier sorgen wir dafür, dass was passiert wenn wir auf ein Item
         // in der Liste clicken
-        listView.setOnClickListener(new AdapterView.OnItemClickListener(){
 
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
-            }
-        });
 
     }
 }
