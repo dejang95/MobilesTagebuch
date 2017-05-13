@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context="team4.hci.mobilestagebuch.MainActivity">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="vadim"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="132dp" />
 </android.support.constraint.ConstraintLayout>
